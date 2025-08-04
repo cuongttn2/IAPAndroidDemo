@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IAPAndroidDemo</string>
+    <string name="iap_purchase_failed_title">Error</string>
+    <string name="iap_failed_to_initiate_purchase_msg">Failed to initiate the purchase. Please try again later.</string>
+    <string name="iap_purchase_validation_failed_msg">Failed to validate the purchase.</string>
+    <string name="iap_buy_button_enabled_label">Buy</string>
+    <string name="iap_buy_button_disabled_label">Item Bought</string>
+    <string name="iap_close_button_label">Close</string>
+    <string name="iap_purchase_successful_msg">Your purchase was successful!</string>
+    <string name="iap_purchase_successful_title">Thank You!</string>
+    <string name="non_consumable">Non-consumable</string>
 </resources>
